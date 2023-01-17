@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/codexlag" target="blank"><img src="https://img.shields.io/twitter/follow/codexlag?logo=twitter&style=for-the-badge" alt="Codexlag"/></a> </p>
 
-- 🔭 I’m currently working on **frontend development**
+- 🔭 I’m currently working on **frontend development and mobile UI**
 
-- 🌱 I’m currently learning **Bootstrap**
+- 🌱 I’m currently learning **Bootstrap and FlutterFlow**
 
 - 👯 I’m looking to collaborate on **Projects and open-source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Procodx](https://github.com/Procodx)
 
-- 💬 Ask me about **Html, css, and git**
+- 💬 Ask me about **Html, css, git and Bootstrap**
 
-- 📫 How to reach me **henryspeedola@gmail.com**
+- 📫 Email me @ **henryspeedola@gmail.com**
 
 - ⚡ Fun fact **I hate my computer but i still use it**
 
