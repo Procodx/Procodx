@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer From Nigeria</h3>
 
 <p align="left"><img src="https://img.shields.io/badge/Frontend%20Mentor%20Projects-17-brightgreen" alt="Frontend Progress"/></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jemmycodes&label=Profile%20views&color=0e75b6&style=flat" alt="jemmycodes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Procodx" alt="Procodx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Procodx" alt="jemmycodes" /></a> </p>
 
