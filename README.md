@@ -2,10 +2,11 @@
 <h3 align="center">A Web Developer From Nigeria</h3>
 
 <p align="left"><img src="https://img.shields.io/badge/Frontend%20Mentor%20Projects-17-brightgreen" alt="Frontend Progress"/></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Procodx" alt="Procodx" /> </p>
-[![committers.top badge](https://user-badge.committers.top/nigeria/Procodx.svg)](https://user-badge.committers.top/nigeria/Procodx)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Procodx" alt="Procodx" /></p>
+<p align="left"> <img src="https://user-badge.committers.top/nigeria/Procodx.svg" alt="Procodx" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Procodx" alt="jemmycodes" /></a> </p>
+[committers.top badge](https://user-badge.committers.top/nigeria/Procodx)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Procodx" alt="Procodx" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/codexlag" target="blank"><img src="https://img.shields.io/twitter/follow/codexlag?logo=twitter&style=for-the-badge" alt="Codexlag"/></a> </p>
 
@@ -15,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **Projects and open-source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Procodx](https://github.com/Procodx)
+- 👨‍💻 All of my projects are available at [https://github.com/Procodx](https://github.com/Procodx) 
 
 - 💬 Ask me about **Html, css, git, Bootstrap and JavaScript**
 
