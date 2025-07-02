@@ -3,6 +3,7 @@
 
 <p align="left"><img src="https://img.shields.io/badge/Frontend%20Mentor%20Projects-17-brightgreen" alt="Frontend Progress"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Procodx" alt="Procodx" /> </p>
+[![committers.top badge](https://user-badge.committers.top/nigeria/Procodx.svg)](https://user-badge.committers.top/nigeria/Procodx)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Procodx" alt="jemmycodes" /></a> </p>
 
