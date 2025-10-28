@@ -4,6 +4,7 @@
 <p align="left"><img src="https://img.shields.io/badge/Frontend%20Mentor%20Projects-17-brightgreen" alt="Frontend Progress"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Procodx" alt="Procodx" /></p>
 <p align="left"> <img src="https://user-badge.committers.top/nigeria/Procodx.svg" alt="Procodx" /></p>
+<p align="left"><img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=flat-square&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D34618"></p>
 
 [committers.top badge](https://user-badge.committers.top/nigeria/Procodx)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Procodx" alt="Procodx" /></a> </p>
