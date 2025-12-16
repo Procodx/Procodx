@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Codex</h1>
-<h3 align="center">A Web Developer From Nigeria</h3>
+<h3 align="center">A Software Developer From Nigeria</h3>
 
 <p align="left"><img src="https://img.shields.io/badge/Frontend%20Mentor%20Projects-17-brightgreen" alt="Frontend Progress"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Procodx" alt="Procodx" /></p>
@@ -11,19 +11,19 @@
 
 <p align="left"> <a href="https://twitter.com/codexlag" target="blank"><img src="https://img.shields.io/twitter/follow/codexlag?logo=twitter&style=for-the-badge" alt="Codexlag"/></a> </p>
 
-- 🔭 I’m currently working on **ASP.NET CORE**
+- 🔭 I’m Always working on **ASP.NET**
 
-- 🌱 I’m currently learning **RAZOR and C#**
+- 🌱 I’m currently learning **RAZOR using C#, ReactJS NextJs**
 
 - 👯 I’m looking to collaborate on **Projects and open-source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Procodx](https://github.com/Procodx) 
 
-- 💬 Ask me about **Html, css, git, Bootstrap and JavaScript**
+- 💬 Ask me about **Any Programming or Cybersecurity Topic** if i dont know the answer, we will both find it online
 
 - 📫 Email me @ **henryspeedola@gmail.com**
 
-- ⚡ Fun fact **I hate my computer but i still use it**
+- ⚡ Fun fact **I'm Very good at finding things Online and i use AI even though i'm not a vibe coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
